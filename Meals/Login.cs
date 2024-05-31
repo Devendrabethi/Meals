@@ -163,6 +163,12 @@ public class Login
         driver.FindElement(By.XPath("//button[@id='btnMealPreference']")).Click();
 
         //Delivery Info Page
+        //changeing the repositary
+        //changeing the repositary
+        //changeing the repositary
+        //changeing the repositary
+
+
 
         driver.FindElement(By.XPath("//div[@id='dv5690411']/div/div/span[2]")).Click();
         Thread.Sleep(1000);

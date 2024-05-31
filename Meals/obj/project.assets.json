@@ -153,24 +153,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DevendraPrasadBethi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cogni\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Automation\\Meals\\Meals.csproj",
+      "projectUniqueName": "C:\\Automation\\Meals\\Meals\\Meals.csproj",
       "projectName": "Meals",
-      "projectPath": "C:\\Automation\\Meals\\Meals.csproj",
-      "packagesPath": "C:\\Users\\DevendraPrasadBethi\\.nuget\\packages\\",
-      "outputPath": "C:\\Automation\\Meals\\obj\\",
+      "projectPath": "C:\\Automation\\Meals\\Meals\\Meals.csproj",
+      "packagesPath": "C:\\Users\\cogni\\.nuget\\packages\\",
+      "outputPath": "C:\\Automation\\Meals\\Meals\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DevendraPrasadBethi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\cogni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -178,7 +173,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -231,7 +225,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
